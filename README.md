@@ -5,13 +5,13 @@ Feel free to interact and leave feedback and or comments.
 
 Technology used to build:
 
-HTML5 Boilerplate,
+HTML5 Boilerplate
 
-Tailwind CSS,
+Tailwind CSS
 
-VS Code,
+VS Code
 
-Cloudflare,
+Cloudflare
 
 
 Thanks for stopping by.
