@@ -8,7 +8,7 @@ Technology used to build:
 HTML5 Boilerplate,
 Tailwind CSS,
 VS Code,
-Cloudflare,
+Cloudflare
 
 
 Thanks for stopping by.
